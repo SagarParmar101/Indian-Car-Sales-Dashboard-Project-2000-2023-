@@ -81,6 +81,7 @@ Indian-Car-Sales-Dashboard/
 
 Connect with me for questions about this project or collaboration opportunities:
 - **LinkedIn**: [www.linkedin.com/in/sagar-parmar2025]
+- **Portfolio**: [https://sagarparmar101.github.io/]
 
 ---
 
