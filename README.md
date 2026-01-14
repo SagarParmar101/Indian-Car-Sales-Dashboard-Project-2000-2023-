@@ -1,5 +1,7 @@
 # Indian Car Sales Dashboard Project (2000–2023)
 
+![Dashboard Demo](https://github.com/SagarParmar101/Indian-Car-Sales-Dashboard-Project-2000-2023-/blob/main/Car%20Sales%20Trends%20%26%20Insights%20(India%202000%E2%80%932023)%20.gif)
+
 ## Project Overview
 This project involves creating a comprehensive Excel dashboard to analyze Indian car sales data from 2000 to 2023. It visualizes sales trends, brand performance, car body types, and buyer behavior to provide actionable business insights for stakeholders. The dashboard leverages advanced Excel features for dynamic interactivity and clear KPI reporting.
 
