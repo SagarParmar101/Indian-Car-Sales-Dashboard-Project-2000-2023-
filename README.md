@@ -1,5 +1,6 @@
 # Indian Car Sales Dashboard Project (2000–2023)
 
+## Dashboard Demo (Tableau)
 ![Dashboard Demo](https://github.com/SagarParmar101/Indian-Car-Sales-Dashboard-Project-2000-2023-/blob/main/Car%20Sales%20Trends%20%26%20Insights%20(India%202000%E2%80%932023)%20.gif)
 
 ## Project Overview
